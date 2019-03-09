@@ -1,0 +1,13 @@
+Instruction steps
+
+Step 1: git clone : https://github.com/patelviraj003/MAD314-CV-1896531.git: This command will help to clone repository which is created on github. It will help to map local repositiry to remote repository.
+
+Step 2 : touch instructions.txt This commad will create text file which name is instructions.
+
+Step 3: touch report.txt This commad will create empty text file which name is report.
+
+Step 4: git add .  This command will stage all files to root directory.
+
+Step 5 : git commit -m "message"  This command will record the changes in file and save to local repository and we provide meassage for the commitment.
+
+Step 6 : git push origin This command will upload files to remote repository from local repository.
